@@ -1,0 +1,30 @@
+{"radio":[
+  {
+    "Name": "Suriyan FM",
+    "Frequency": 93.5,
+    "Value": "5",
+    "Grid1": 0,
+    "Grid2": 0
+  },
+  {
+    "Name": "Radio Mirchi FM",
+    "Frequency": 98.3,
+    "Value": "1",
+    "Grid1": 0,
+    "Grid2": 1
+  },
+  {
+    "Name": "Radio City FM",
+    "Frequency": 91.1,
+    "Value": "3",
+    "Grid1": 1,
+    "Grid2": 0
+  },
+  {
+    "Name": "Big FM",
+    "Frequency": 92.7,
+    "Value": "1",
+    "Grid1": 1,
+    "Grid2": 1
+  }
+]}
